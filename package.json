@@ -1,0 +1,24 @@
+{
+  "name": "font-weight",
+  "version": "1.0.0",
+  "description": "font weights for fun and profit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stryju/font-weights.git"
+  },
+  "keywords": [
+    "font",
+    "weight",
+    "css"
+  ],
+  "author": "tomasz stryjewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stryju/font-weights/issues"
+  },
+  "homepage": "https://github.com/stryju/font-weights#readme"
+}
